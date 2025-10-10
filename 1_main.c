@@ -2,7 +2,7 @@
 //751127773@qq.com
 //张博阳
 #include <stdio.h>
-int main()
+int main(void)
 {
     printf("Hello World");
     return 0;
